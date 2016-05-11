@@ -7,6 +7,9 @@ Style/HashSyntax:
 Style/StringLiterals:
   Enabled: false
 
+Style/StringLiteralsInInterpolation:
+  Enabled: false
+
 Style/EmptyLines:
   Enabled: false
 
